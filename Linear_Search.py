@@ -3,11 +3,14 @@
 
 my_list = [1, 2, 3, 4, 5]
 
-input_item = int(input("enter a number: "))
+search_item = int(input("enter a number: "))
 
-get_index = my_list.index(input_item)
+if search_item in my_list:
 
-if input_item in my_list:
+	get_index = my_list.index(search_item)   # index number of the search_item
+	print(str(search_item) + " is found at index number " + str(get_index) + " .")
+
+else:
 	
-	print(str(input_item) + " is found at index number " + str(get_index) + " .")
+	print(str(search_item) + " is not on the list.")
 
