@@ -9,7 +9,11 @@ I'll use Python3 programming language to implement my algorithms.
 
 ### How to run
 Open your Linux Terminal and paste the codes one by one.  
+
 ``https://github.com/Mehedi61/Algorithms.git``
+
 ``cd Algorithms/``
+
 ``python3 filename.py``
+
 That's it.
