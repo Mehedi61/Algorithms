@@ -8,7 +8,7 @@ I'll use Python3 programming language to implement my algorithms.
 * [**Binary Search**](https://github.com/Mehedi61/Algorithms/blob/master/algorithms/Binary_Search.py)
 
 ### How to run
-Open your Linux Terminal and paste the codes one by one.  
+Open your Linux terminal and execute the following commands one by one.  
 
 ```
 https://github.com/Mehedi61/Algorithms.git  
