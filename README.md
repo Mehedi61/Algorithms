@@ -14,9 +14,9 @@ Open your Linux terminal and execute the following commands one by one.
 https://github.com/Mehedi61/Algorithms.git
 ```  
 ```  
-cd Algorithms/algorithms/  
+cd Algorithms/algorithms/
 ```  
 ```  
-python3 filename.py  
+python3 filename.py
 ```
 That's it.
