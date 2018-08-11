@@ -11,8 +11,12 @@ I'll use Python3 programming language to implement my algorithms.
 Open your Linux terminal and execute the following commands one by one.  
 
 ```
-https://github.com/Mehedi61/Algorithms.git  
+https://github.com/Mehedi61/Algorithms.git
+```  
+```  
 cd Algorithms/  
+```  
+```  
 python3 filename.py  
 ```
 That's it.
